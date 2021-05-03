@@ -12,5 +12,8 @@
 <p>2. Arrays: </p>
 <p> map, filter, reduce</p>
 
+<p>3. EsNext: </p>
+<p>set, promisses, async/await</p>
+
 <hr>
 <p>Sempre que tiver commits novos, atualizarei a listagem aqui, aproveite caso seja útil</p>
