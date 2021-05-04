@@ -12,7 +12,7 @@
 <p>2. Arrays: </p>
 <p> map, filter, reduce</p>
 
-<p>3. EsNext: </p>
+<p>3. EsNext(ecmascript 5,6,7+): </p>
 <p>set, promisses, async/await</p>
 
 <hr>
